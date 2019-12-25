@@ -10,19 +10,11 @@ public class Mesaj {
         this.icerik = icerik;
     }
 
-    public boolean isBenim() {
+    public boolean getBenim() {
         return benim;
-    }
-
-    public void setBenim(boolean benim) {
-        this.benim = benim;
     }
 
     public String getIcerik() {
         return icerik;
-    }
-
-    public void setIcerik(String icerik) {
-        this.icerik = icerik;
     }
 }

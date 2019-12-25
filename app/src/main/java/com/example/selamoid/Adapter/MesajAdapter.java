@@ -30,7 +30,7 @@ public class MesajAdapter extends ArrayAdapter<Mesaj> {
 
         Mesaj item = getItem(konum);
 
-        if (item.isBenim()) {
+        if (item.getBenim()) {
             return BENİM_MESAJ;
         }
         else {
@@ -68,7 +68,6 @@ public class MesajAdapter extends ArrayAdapter<Mesaj> {
 
         return convertView;
     }
-
     @Override
     public int getViewTypeCount() {
         return 2;

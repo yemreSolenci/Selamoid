@@ -22,10 +22,6 @@ import com.example.selamoid.Model.Mesaj;
 import com.example.selamoid.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
-import org.w3c.dom.Element;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
-
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
@@ -54,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         btnGndr.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                tikalan();
+                tiklandi();
             }
         });
     }
@@ -65,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         rLayout.setBackgroundColor(getResources().getColor(AyarlarActivity.drawableID));
     }
 
-    private void tikalan() {
+    private void tiklandi() {
         String mesaj = editTextMsg.getText().toString();
         if (TextUtils.isEmpty(mesaj)) {
             Toast.makeText(MainActivity.this, "Lütfen bir sorgu girin", Toast.LENGTH_SHORT).show();
@@ -81,17 +77,10 @@ public class MainActivity extends AppCompatActivity {
         listView.setSelection(adapter.getCount() - 1);
     }
 
-
-    private static String getValue(String tag, Element element) {
-        NodeList nodeList = element.getElementsByTagName(tag).item(0).getChildNodes();
-        Node node = (Node) nodeList.item(0);
-        return node.getNodeValue();
-    }
-
     private TextView.OnEditorActionListener editorListener = new TextView.OnEditorActionListener() {
         @Override
         public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
-                tikalan();
+                tiklandi();
             return true;
         }
     };
