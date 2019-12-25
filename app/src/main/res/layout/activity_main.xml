@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yesilsoluk"
+    android:orientation="vertical"
+    tools:context=".Activity.MainActivity">
+
+    <ListView
+        android:id="@+id/listViev"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/mesaj_gonder_layout"
+        android:divider="@null">
+
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/mesaj_gonder_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#B2B4A4"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/editTextMsg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:width="1dp"
+            android:autofillHints=""
+            android:hint="@string/edtTextMsgHint"
+            android:imeOptions="actionSend"
+            android:inputType="textCapSentences"
+            android:labelFor="@id/btnGndr"
+            tools:targetApi="o" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btnGndr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            app:backgroundTint="#87B64F"
+            app:maxImageSize="40dp"
+            app:srcCompat="@android:drawable/ic_menu_send" />
+    </LinearLayout>
+</RelativeLayout>

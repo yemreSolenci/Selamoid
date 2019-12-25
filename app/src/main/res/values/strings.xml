@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Selamoid</string>
+    <string name="edtTextMsgHint">Bir mesaj yaz</string>
+    <string name="arkaplanBtnTxt">Arkaplanı değiştir</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4389BE</color>
+    <color name="colorPrimaryDark">#3180C2</color>
+    <color name="colorAccent">#FAD84732</color>
+    <color name="siyah">#593C3B3B</color>
+    <color name="beyaz">#FFFFFF</color>
+    <color name="mavi">#F03231D9</color>
+    <color name="kirmizi">#DFFF3535</color>
+    <color name="sari">#E1CC32</color>
+    <color name="yesil">#E136B532</color>
+
+    <color name="yesilsoluk">#B8D899</color>
+    <color name="mavisoluk">#99BEBE</color>
+</resources>

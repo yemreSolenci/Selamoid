@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<dialoglar>
+    <dialog>
+        <soru>*</soru>
+        <cevap>Üzgunum, buna henüz bir cevabım yok.</cevap>
+    </dialog>
+    <dialog>
+        <soru>saat kac</soru>
+        <soru>su an saat kac</soru>
+        <cevap>*</cevap>
+    </dialog>
+    <dialog>
+        <soru>tarih</soru>
+        <soru>bugün</soru>
+        <soru>bu günün tarihi</soru>
+        <cevap>*</cevap>
+    </dialog>
+    <dialog>
+        <soru>nasılsın</soru>
+        <soru>naber</soru>
+        <cevap>İyiyim, sen nasılsın?</cevap>
+    </dialog>
+    <dialog>
+        <soru>merhaba</soru>
+        <cevap>Merhaba, sana nasıl yardımcı olabilirim?</cevap>
+    </dialog>
+    <dialog>
+        <soru>napıyorsun</soru>
+        <soru>napıyosun</soru>
+        <cevap>Düşünüyorum</cevap>
+    </dialog>
+    <dialog>
+        <soru>adın ne</soru>
+        <cevap>Selamoid</cevap>
+    </dialog>
+    <dialog>
+        <soru>iyi</soru>
+        <cevap>Güzel</cevap>
+    </dialog>
+    <dialog>
+        <soru>Selamoid</soru>
+        <cevap>Efendim</cevap>
+    </dialog>
+    <dialog>
+        <soru>selamün aleyküm</soru>
+        <cevap>Aleyküm selam</cevap>
+    </dialog>
+    <dialog>
+        <soru>selam</soru>
+        <cevap>Selam</cevap>
+    </dialog>
+</dialoglar>
