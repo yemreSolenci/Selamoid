@@ -1,3 +1,3 @@
 # Selamoid
 (Chatbot)
-for my lesson
+for my homework.
