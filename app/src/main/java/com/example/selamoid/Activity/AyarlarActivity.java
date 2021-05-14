@@ -1,6 +1,7 @@
 package com.example.selamoid.Activity;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.os.Bundle;
@@ -9,6 +10,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.preference.PreferenceManager;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
@@ -20,8 +22,12 @@ import com.example.selamoid.R;
 public class AyarlarActivity extends AppCompatActivity {
 
     LinearLayout lLayout;
-    public static int drawableID = 2131099785;
-    int nextColor =6;
+    public static int drawableID;
+    public static int nextColor;
+    public static SharedPreferences preferences;
+    String STATE_COLOR = "com.example.selamoid.drawaid";
+    String NEXT_COLOR = "com.example.selamoid.nextcolor";
+    public static SharedPreferences.Editor editor;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,6 +41,8 @@ public class AyarlarActivity extends AppCompatActivity {
         actionBar.setTitle("Ayarlar");
 
         lLayout = findViewById(R.id.linearLayout);
+        preferences = MainActivity.preferences;
+        editor = preferences.edit();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
@@ -56,6 +64,9 @@ public class AyarlarActivity extends AppCompatActivity {
                 Log.i("Reng:  ", String.valueOf(nextColor));
                 if (nextColor >=7)
                     nextColor = 0;
+                editor.putInt(STATE_COLOR, drawableID);
+                editor.putInt(NEXT_COLOR, nextColor);
+                editor.commit();
             }
         });
     }

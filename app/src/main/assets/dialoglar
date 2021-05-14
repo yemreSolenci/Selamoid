@@ -17,8 +17,9 @@
     </dialog>
     <dialog>
         <soru>nasýlsýn</soru>
+        <soru>halin keyfin nasýl</soru>
         <soru>naber</soru>
-        <cevap>Ýyiyim, sen nasýlsýn?</cevap>
+        <cevap>Sana ne</cevap>
     </dialog>
     <dialog>
         <soru>merhaba</soru>
@@ -48,5 +49,621 @@
     <dialog>
         <soru>selam</soru>
         <cevap>Selam</cevap>
+    </dialog>
+    <dialog>
+        <soru>hediye söyler misin</soru>
+        <cevap>kar küresi</cevap>
+    </dialog>
+    <dialog>
+        <soru>Koç burcu özellikleri</soru>
+        <cevap>Koç, Burçlar kuþaðýnýn ilk burcudur. Hareketli ve enerjik oluþlarý ile tanýnýrlar. Ben egolarý çok fazla geliþmiþtir. BEN, onlarýn aynasý olmuþtur adeta. Bu burçta doðanlar çok pratiktirler. Olaylar karþýsýnda coþkularýný gizleyemezler. Yaþam yolunda canlýlýklarýný ve atýlganlýklarýný yitirmeden heyecanla ilerlerler. Merak ettikleri konularda olabildiðince yaratýcýlardýr. Amaçlarý doðrultusunda ilerlerken, kendilerini eylemleri ile kanýtlamak isterler. Eðer Koç'lar giriþimde bulunacaklarý zaman izleyecekleri rotayý ayrýntýlarý ile planlarsa, enerjik yapýlarýnýn da yardýmý ile daha da üretken olabilirler. Bencilliklerinden kaynaklanan sabýrsýzlýklarý ve söz dinlemez yaratýlýþlarý yüzünden zaman zaman güç durumlara düþtükleri de olur. Böyle anlarda baþladýklarý iþlerini sonuçlandýrmadan býrakýrlar. Konuþmalarý abartýlýdýr, bazen gerçekleri deðiþtirerek anlatýrlar. Kavrama yetenekleri fazla olan Koç'lar yaþam sahnesinin baþrolünde olmayý tercih ederler. Aþýrý kýskanç ve baðýmsýzlýklarýna düþkün olurlar.</cevap>
+    </dialog>
+<dialog>
+        <soru>boða burcu özellikleri</soru>
+        <cevap>Boða'lar hedefleri doðrultusunda ilerlerken, tüm dikkatlerini toplayabilme yeteneklerinin yanýnda maddecilikleri ile tanýnýrlar. SAHÝP olma onlarýn yaþam gerçekleridir. Bireysel iliþkiler konusunda son derece güvenilir olan Boða'lar, insanlara yardým etmekten hoþlanýrlar. Yaþamlarý boyunca güven ararlar ve bu yüzden kendilerini riske atmazlar. Amaçladýklarý iþler konusunda gösterdikleri sabýr, bazen diðer kiþileri çatlatacak boyutlarda olabilir. Bütün bunlara raðmen çevresi tarafýndan aranýlan, sýcakkanlý insanlardýr. Sürekli somut konularla uðraþmayý severler, doðada bulunan olaylardan örneklemelerle iþlerini baþarýlý bir þekilde yürütürler. Bu yüzden ruhsal olarak da doyumlu kiþilerdir. Olaylarý organize ederlerken rahatlýklarýný gözetirler ve kendilerinin zevklerine uygun olmasýna önem verirler. Yaþamdaki isteklerini elde ettikleri zaman, hiçbir koþul onlarý baþka yönlere çekemez. Parayý rahata ulaþmak için bir araç olarak görürler. Mal ve mülk edinme konusunda beceriklidirler. Finans ve yatýrým konularý ilgilerini çeker.</cevap>
+    </dialog>
+<dialog>
+        <soru>ikizler burcu özellikleri</soru>
+        <cevap>Ýkizler burcu insanlarý hýzlý düþüncelerine uygun çabuk hareket ederler. Ayni anda birkaç iþi birden yapabilirler. Onlarýn adapte olamayacaklarý iþ yoktur. Bu yüzden deðiþik karakterli olmalarý ile tanýnýrlar. Bu yapýlarýný her zaman görebilmek mümkündür. Son derece neþeli ve mutlu olduklarý bir anda, aniden mutsuz olabilirler. Çevreleri tarafýndan sürekli yanlýþ anlaþýlabilirler. Herhangi bir konuda bilgileri az bile olsa, bunu çok iyi gizlemeyi baþarýrlar. Aksine; kulaktan dolma duyduklarý bilgileri öyle ustaca anlatýrlar ki, dinleyenler onlarý o iþin uzmaný sanýrlar. Pratik zekalarýyla, çekici ve akýllýdýrlar. Bu nedenle onlarý tanýmlayan sözcük 'Düþünüyorum' dur. Fakat, bu düþünceleri hep yeni arayýþlara doðru yönelmiþtir. Bu yüzden uzun soluklu çalýþmalar onlarý yorar. Kendilerini iyi eðitmiþ ikizler hoþ ve zariflikleri ile yaþamý zevkli kýlarlarken, eðitimsiz olanlar da yaþamý o kadar çekilmez hale getirirler. Kendi paralarýna karþý tutumlu davranmalarýna karþýn, baþkalarýnýn paralarýný kolayca harcayabilirler.</cevap>
+    </dialog>
+<dialog>
+        <soru>yengeç burcu özellikleri</soru>
+        <cevap>Yaþamlarýndaki her konuda aþýrý bir þekilde hassas, alýngan ve kuruntulu olan Yengeç'leri tanýmlayan sözcük 'Hissederim' dir. Sorumluluk duygularý çok geliþmiþtir. Her iþte olaðanüstü olan ayrýntýcýlýklarý, iþlerinde mükemmeliyetçiliði getirir. Ayni sorumluluklarý karþýlarýndakilerden de beklerler. Yengeç'ler duygusallýklarý ve duyarlýlýklarý ile tanýnýrlar. Çevresindeki her insandan da ayni hassasiyeti bekledikleri için, kolay geçinilir tipler deðildir. Ýyi günlerinde neþeli, iyi kalpli, yardýmsever, düþünceli ve anlayýþlýdýrlar. Fakat herhangi belirgin bir neden olmadan somurtkan ve alýngan olabilirler. Yakýnlarýný ve arkadaþlarýný çok sevmelerine karþýn, bunu pek belli etmezler. Kendilerini herhangi bir þekilde inciten kiþileri zor baðýþlarlar ve yapýlan hareketi asla unutmazlar. Yengeç'ler müziðe ve dinsel konulara karþý ilgilidirler. Sabýrlý olan Yengeç'ler tartýþmalardan kesinlikle hoþlanmazlar. Duygularýný sessiz bir þekilde saklarlar.</cevap>
+    </dialog>
+<dialog>
+        <soru>aslan burcu özellikleri</soru>
+        <cevap>Aslan kraldýr, önderdir. Baþkalarýnýn yaþantýlarýný da onlar adýna düzenlemek isterler. Her þeye karýþýrlar, kibirlidirler. Bu nedenle onlarý tanýmlayan sözcük 'Yönetirim' dir. Yaþam sahnesinde her zaman parlayarak, odak noktasý olmak isterler. Organizasyon güçleri çok fazladýr. Ýsteklerini baþkalarýna kabul ettirmek, onlar için yaþamlarýnýn 'olmazsa olmaz' þartýdýr. Ýyi zamanlarýnda etkileyici, güler yüzlü, baþkalarýna yardým etmeyi seven ve bunu kendine görev sayan Aslan'lar sevimli ve iyimser kiþilerdir. Ona karþý hatalý davransanýz bile, size olgun bir þekilde tepki verir. Fakat; Sabrý taþtýktan sonra, dürüst ve mert, gerektiðinde sert bir þekilde tavýr gösterir. Zor günlerinde þanslarý onlara her zaman yardým eder. Yönetici gezegenleri Güneþ onlarý en karanlýk günlerinde aydýnlýða çýkarýr. Eðitimsiz ve geliþmemiþ Aslan tipleri çekilmez olurlar. Her konuda sahip olduklarýndan daha fazlasý varmýþ gibi davranýrlar.</cevap>
+    </dialog>
+<dialog>
+        <soru>aslan burcu özellikleri</soru>
+        <cevap>Yönetici gezegeninizden dolayý hep bilgiyi ararlar. Zekalarýný kendilerine yardýmcý olan bir hizmetçi gibi görürler. Bu nedenle Baþak burcunu tanýmlayan sözcük 'Ýncelerim “ dir. Baþak'lar çalýþkan ve pratik insanlar olup, yaþamlarýndaki en önemli konu Ýþ' tir. Güvendikleri kiþilere yardým etmeyi sevmelerine raðmen, inanmadýklarý ve tembel olduklarýný bildikleri kiþilere karþý soðuk davranýrlar. Yaþamlarý boyunca dinlenmeden çalýþýrlar. Onlarýn dinlenme biçimi bile baþkalarýna yorucu gelebilir. Baþak'larýn yaþamda ayrýntýlar arasýnda boðulma riskleri hep vardýr. Böyle anlarda bile, kendi yöntemleri ile yaptýklarý iþlerde geliþigüzel þeyler bulunabileceðini kabul etmezler. Baþaklar, genellikle kendilerini hiç kimseye kullandýrtmazlar, sýnýrlarýný belirleyerek 'hayýr' demesini bilirler. Tutumluluklarý bazen pintilik derecesindedir. Ýçli-dýþlý olmayý sevmedikleri için, soðuk ve mesafeli bir görünüþleri vardýr.</cevap>
+    </dialog>
+<dialog>
+        <soru>baþak burcu özellikleri</soru>
+        <cevap>Yönetici gezegeninizden dolayý hep bilgiyi ararlar. Zekalarýný kendilerine yardýmcý olan bir hizmetçi gibi görürler. Bu nedenle Baþak burcunu tanýmlayan sözcük 'Ýncelerim “ dir. Baþak'lar çalýþkan ve pratik insanlar olup, yaþamlarýndaki en önemli konu Ýþ' tir. Güvendikleri kiþilere yardým etmeyi sevmelerine raðmen, inanmadýklarý ve tembel olduklarýný bildikleri kiþilere karþý soðuk davranýrlar. Yaþamlarý boyunca dinlenmeden çalýþýrlar. Onlarýn dinlenme biçimi bile baþkalarýna yorucu gelebilir. Baþak'larýn yaþamda ayrýntýlar arasýnda boðulma riskleri hep vardýr. Böyle anlarda bile, kendi yöntemleri ile yaptýklarý iþlerde geliþigüzel þeyler bulunabileceðini kabul etmezler. Baþaklar, genellikle kendilerini hiç kimseye kullandýrtmazlar, sýnýrlarýný belirleyerek 'hayýr' demesini bilirler. Tutumluluklarý bazen pintilik derecesindedir. Ýçli-dýþlý olmayý sevmedikleri için, soðuk ve mesafeli bir görünüþleri vardýr.</cevap>
+    </dialog>
+<dialog>
+        <soru>terazi burcu özellikleri</soru>
+        <cevap>Kararsýzlýklarý ile ünlü cazibe sembolü karþýnýzda duruyor. Nedenini bilmediðiniz bir çekim gücü etkisi altýna girdiðinizi fark ettiðinizde iþ iþten çoktan geçmiþ olacaktýr. Onlarýn büyülü bir havasý vardýr. Ritmik hareketleri ile dans eder gibi bir yaþam sürer. Onun yanýnda kýzgýnlýklarýnýz yok olur. En sinirli anýnýzda bile sizi regüle etme yeteneðine sahiptir. Üstelik, tartýþmayý sevmesine raðmen; bu kadar ustalýkla konulara hakim olup, sonrada sesini hiç yükseltmeden zaferini ilen eden çok az kiþi vardýr. Bir Terazi bunu baþarýr. Sizin kýlýç salladýðýnýz ortamlarda, o; gülücüklerini, zarafetini ve öpücüklerini gönderecektir. Kafasýnda müthiþ bir denge vardýr. Onun ne düþündüðünü bilemezsiniz. Uyumlu ve sevecen yapýsýnýn altýnda gizli bir güç vardýr. Bulunduðu ortamlarý çok çabuk inceler ve gizli detaylarýn nerede saklý olduðunu bulmaya çalýþýr. Konuya hakim olmak için deliler gibi çalýþmak ve kendini harap etmek yerine, keskin görüþlerini ve doðru mantýðýný kullanacaðý ortamlarý seçer. Baþarýlý olmak için imkansýzlýðý deðil, kendini yüceltecek elle tutulur konular üzerinde uyumlu bir sessizlikle çalýþýr. Yaptýðý iþlerin doðruluðuna inandýðý halde, onay beklemekten de kendini alamaz. Onu tenkit etme gibi bir þansýnýz asla olamaz. Böyle bir þeye kalkýþtýðýnýz taktirde; size tüm zarafetiyle gülümseyecek, önerilerinizi can kulaðýyla dinleyecek ve sonunda kibarca teþekkür ederek sizden uzaklaþacaktýr. Fakat bir daha asla sizin fikrinizi sormayacaktýr. Gülümseyen çehresinin altýnda müthiþ bir ego gizlidir, aþk ve sanat onun yaþam öðeleridir. Dünyada her þeyden vazgeçebilir, fakat kiþiliðini besleyen ve duygusallýðýný yansýtan soyut kavramlarýndan vazgeçemez. Akýl, mantýk, aþk iþte karþýnýzda her þeyiyle özel bir kiþi duruyor. Onun terazilerinin kefesinde yer almak istiyorsanýz, belli standart ölçülerin çok üstünde olmanýz gerekir. Kolay bir insan olmadýðýný þimdiden hatýrlatýrýz.</cevap>
+    </dialog>
+<dialog>
+        <soru>akrep burcu özellikleri</soru>
+        <cevap>Akrepler kadar yaþamda tutkuyla yaþayan az insan vardýr. Bu nedenle onlarý simgeleyen sözcük 'Arzuluyorum' dur. Hiçbir þeyi yarým býrakmazlar. Akreplerin güçleri gözlerinden okunur. Mimiklerini kontrol altýnda tutsalar bile, bakýþlarý ile sevgilerini ya da nefretlerini aktarabilirler. Duygularýna kapýlýrlarsa, tehlikeli olabilirler. Akrep'ler ukala ve kendini beðenmiþ insanlarý sevmezler, onlarý aþaðýlayarak hadlerini bildirirler. Kendi bildiklerini okuyarak, uzlaþmaya yanaþmazlar. Aþýrý bir þekilde kuþkuculardýr, kolay inanmazlar ama inandýklarý bir konuyu da sonuna kadar inatla savunurlar. Çalýþmalarýnda sabýr ve özenle çalýþýrlarken, gösteriþten uzak bir þekilde iþlerini yaparlar. Kendilerini yetiþtirmemiþ Akrep'ler, yaþamýn basitliklerine yatkýnlýklarý ile kendi kendilerinin yok oluþlarýna neden olurlar. Cinsellik yaþamlarýnda önemli bir yer tutar. Ölümü yeni bir baþlangýç olarak kabul ettiklerinden, ölümden korkmazlar..</cevap>
+    </dialog>
+<dialog>
+        <soru>oðlak burcu özellikleri</soru>
+        <cevap>Geleceði ayrýntýlý biçimde planlamaya çalýþan Oðlak'lar bu özellikleri nedeniyle sýk sýk kuruntulara kapýlarak, depresyona girerler. Ýþleri ile aþýrý meþgul olduklarýndan, insanlarla zor iliþki kurarlar. Fakat, hiçbir zaman kendilerini yalnýz hissetmezler. Bu nedenle onlarý tanýmlayan sözcük 'Kullanýrým' dýr. Oðlaklar ciddilikleri, tutuculuklarý ve güçlü iradeleri ile tanýmlanýrlar. Çalýþkanlýklarý ile kolaylýkla baþkalarýnýn saygýsýný kazanýrlar. Gerçek bir Oðlak'ýn iki temel özelliði vardýr. Güvenilirlik ve dürüstlük. Çok geliþmiþ bir görev duygularý vardýr. Bazen baþkalarýnýn baþarýsýzlýklarýný abartýrlar. Oðlaklar arkadaþlarý ile ilgili çok iyi sýrdaþ olurlar, para konusunda dikkatli olmalarýna raðmen, eli açýk insanlardýr. Geleneklere baðlý kiþiler olduklarýndan, duygusal özgürlüðü anlamakta güçlük çekerler. Bu nedenle kendilerinden yaþça küçük kiþilerle bazen sürtüþmeleri olur. Sürekli somut konularla uðraþmayý severler, doðada bulunan olaylardan örneklemelerle iþlerini baþarýlý bir þekilde yürütürler. Bu yüzden ruhsal olarak da doyumlu kiþilerdir. Olaylarý organize ederlerken rahatlýklarýný gözetirler ve kendilerinin zevklerine uygun olmasýna önem verirler. Bu özellikleri evlerine de yansýr</cevap>
+    </dialog>
+<dialog>
+        <soru>kova burcu özellikleri</soru>
+        <cevap>Hayal güçleri sýnýrsýz olmakla birlikte, düþünceleri bulunduklarý anýn ötesinde, akýlcý ve sezgiseldir. Kova 'lar dik kafalýdýrlar. Kendilerini dinleyenlerin ne demek istediklerini anlamadýklarýný sanýrlar. Kovalarý tanýmlayan sözcük 'Biliyorum' dur. Kova burcu insanlarý sevecen tavýrlarý ile tanýnýrlar. Bu kiþiler bencil deðildirler. Irk, cinsiyet ve sosyal durumuna bakmaksýzýn, herkesin ayni olanaklara sahip olmasýný isterler. Modern görünüþlerine karþýn, inatçý ve sabit fikirli olurlar. Onlara yaklaþmak çok zordur, çünkü ne kadar dostça davranýrlarsa davransýnlar, arada her zaman bir mesafe býrakýrlar. Kiþisel özgürlükleri onlar için o denli önemlidir ki, bu yüzden en yakýn iliþkilerini kesip atabileceði gibi, yine özgürlükleri adýna her türlü özveride bulunurlar. Bu yüzden Kovalara aile yaþamý biraz zor gelir. Çoðu zaman yeni bir þeyler keþfetmek için uðraþýda bulunurlar. Belli ilkeleri sonuna dek savunmalarý onlarý hiç rahatsýz etmez</cevap>
+    </dialog>
+<dialog>
+        <soru>balýk burcu özellikleri</soru>
+        <cevap>Sabýr, eli açýklýk ve duyarlýlýk bu burçta doðan kiþilerin en önemli nitelikleridir. Büyük bir inandýrma yetenekleri vardýr. Dürüst, vicdan sahibi, sadýk ve uysaldýrlar. Her çevreye kolayca uyabilirler. Genellikle hayal dünyasýnda yaþarlar. Yaþam görüþleri ciddi fakat gerçekçi deðildirler. Balýk burcu, diðer burçlar arasýnda dýþ etkenlerden en çok etkilenen kiþilerdir. Düþ dünyasýnda, öylesine mutludur ki, bazen onun aptal olduðunu bile düþünebilirsiniz. Ama, zannettiðinizden daha akýllý ve kurnazdýr. Sinirli yapýsýný gizli bir sakinlikle örterken, herkesin seçtiði özel bir kiþi olmanýn hayallerini kurarlar. Yaþam onun için ürkütücü ve korkunçtur..Balýk burcu insanýný dýþarýdan gözlemleyenler; duygusal yapýsýnýn bir aþk acýsýna dayanamayacaðýný zannederler ve kötü haberi hemen vermek istemezler. Aslýnda, kýrýlgan görüntüsünün altýnda güçlü bir kiþilik yatar. Göz yaþlarýný kýsa sürede kurutur ve mendillerini bir kenara atarak, yeni bir yaþamýn içinde kendini bulur. Onlarý teselli edecek o kadar kiþi bulunur ki; yeni bir aþk acýsý kapýsýný çalýncaya kadar, hayatýný istediði gibi yaþar. Duygusal kýrýklýklar pes etmelerine yetmez ve bir sürü yarým kalmýþ aþkýyla birlikte bir dolu anlatýlacak anýlarýyla yaþamýný tamamlar.</cevap>
+    </dialog>
+<dialog>
+        <soru>Kaç yaþýndasýn</soru>
+        <cevap>Henüz yeni tasarlandým</cevap>
+    </dialog>
+<dialog>
+        <soru>Hayat nasýl gidiyor</soru>
+        <cevap>Ýyi gidiyor telefonlarýn içinde</cevap>
+    </dialog>
+<dialog>
+        <soru>beni motive et</soru>
+        <cevap>Unutma, bir þeyin yapýlamaz olduðunu düþünerek uyursan, baþkasýnýn o þeyi yaparken çýkardýðý gürültüyle uyanýrsýn.</cevap>
+    </dialog>
+<dialog>
+        <soru>baþým aðrýyor</soru>
+        <cevap>Sýk baþ aðrýsý geliþimine sebep olan faktörler:
+
+Kadýn cinsiyet
+Yüksek kaygý düzeyi
+Depresyon- karamsarlýk
+Uyku bozukluklarý
+Þiþmanlýk
+Horlama
+Aþýrý kafein tüketimi
+Aþýrý aðrý ilacý kullanýmý
+Diðer kronik aðrý yaratabilecek durumlar</cevap>
+    </dialog>
+<dialog>
+        <soru>boðaz aðrýsý</soru>
+        <cevap>Boðaz aðrýsýna ne iyi gelir?
+Boðaz aðrýsýndan önce sýklýkla boðazda kaþýntý baþlar. Boðaz kaþýntýsý olduðunda hýzlý bir þekilde önlem alýnýrsa aðrý ortaya çýkmadan rahatsýzlýk önlenebilir. Boðaz aðrýsýnýn tedavisinde aðrýnýn nedeni önemlidir. Boðaz aðrýlarý sýklýkla virüslerden kaynaklanan enfeksiyonlarýn sonucu olarak ortaya çýkar. Viral nedenlerle oluþan boðaz aðrýlarýna sýcak tatbiki iyi gelir. Sýcak uygulamasý yoluyla, boðaz mukozasý daha iyi kanlanýr ve böylece enfekte materyal ve virüsler daha hýzlý taþýnýr. Baðýþýklýk sistemi de sýcakta daha iyi çalýþýr ve vücut enfeksiyona karþý daha dirençli hale gelir. Bu nedenle boðazý sýcak tutmak için þalla sarmak, sýcak bitki çaylarý ve çorbalar tüketmek boðaz aðrýsýnýn iyileþmesini hýzlandýracaktýr.</cevap>
+    </dialog>
+<dialog>
+        <soru>Kalp aðrýsý</soru>
+        <cevap>Kalp aðrýsý nedenleri nelerdir?
+Kalbe iliþkin sorunlardan kaynaklanan göðüs aðrýlarý, birçok nedene baðlý olarak ortaya çýkabilmektedir. Çoðu zaman kalp krizini düþündürse de kalp aðrýsý yalnýzca kalp krizinden kaynaklanmaz. Kalp aðrýsýnýn en yaygýn nedenleri þunlardýr:
+
+Kalbe giden kan damarlarýndaki týkanýklýklardan kaynaklý olarak geliþen göðüs aðrýsý (anjin)
+Kalbe kan akýþýnýn týkanmasý ile geliþen kalp krizi (miyokard infaktüsü)
+Kalbi çevreleyen kesenin iltihabý olan perikardit
+Kalpten çýkan en büyük damar olan aortun diseksiyonu (basýnca baðlý olarak içten dýþa doðru yýrtýlmasý)
+Bir tür kalp kasý hastalýðý olan kardiyomiyopati</cevap>
+    </dialog>
+<dialog>
+        <soru>Karýn aðrýsý</soru>
+        <cevap>Karýn aðrýsýnýn tedavi yollarý nelerdir?
+Karýn aðrýsý þikayetinin altýnda farklý sebepler olabileceði için bilinçsiz bir þekilde ilaç almamak gerekiyor. Ancak yemek sonrasýnda geliþen, hafif þiddetteki karýn aðrýlarýnda hafif buzlu su içilmesi, tost yenmesi, elma suyu içilmesi veya muz yenmesi öneriliyor.</cevap>
+    </dialog>
+<dialog>
+        <soru>bel aðrýsý</soru>
+        <cevap>Bel aðrýsý, aðrýma, acýma, yanma veya batma þeklinde, keskin veya künt hissediliyor olabilir. Yeri bazý durumlarda noktasal olarak belirlenebilirken, bazý durumlarda daðýnýk ve yeri tam tespit edilemez þekildedir. Hafif veya aðýr olabilir, iniþ çýkýþlar sergileyebilir.
+
+Aðrý, kemik, kýkýrdak, kas, eklem kapsülü, bað, disk veya damar kaynaklý olabilir, ve her zaman kesin sebep ortaya konulamayabilir. Bazý durumlarda altta yatan ana aðrý sebebi ortadan kalktýðý halde bir kez uyarýlmýþ olan sinir uçlarýnýn sinyal göndermeye devam etmesi nedeniyle aðrý sebat edebilir. Stresin de bel aðrýlarýnýn sebebinde önemli bir yer tutmasý kaynaðýn tespit edilmesini zorlaþtýrabilir.
+
+Bel aðrýsý, hangi dokudan kaynaklanýrsa kaynaklansýn, ilgili dokular yer deðiþtirerek veya geniþleyip kalýnlaþarak sinirler üzerinde basý yapar hale gelir ise bacak aðrýsý, uyuþmasý, ýsýnmasý ve idrar kaçýrma gibi problemleri beraberinde getirebilir.
+</cevap>
+    </dialog>
+<dialog>
+        <soru>ateþim çýktý</soru>
+        <cevap>YÜKSEK ATEÞ NEDEN OLUR?
+
+Vücutta oluþan bir enfeksiyon ya da bir hastalýk sonucu, baðýþýklýk sistemi tepki gösterir ve beynin hipotalamus adlý bölgesi vücut ýsýsýný yükselterek hastalýða neden olan organizmalarý öldürmeye çalýþýr. Ancak, normalden çok fazla yükseldiði durumlarda tehlikeli hale gelebilir.Ateþ yüksekliði çok fazla deðilse doktor ilaç önermeyebilir. Ateþin hafif yükselmesi mikroplarý öldürerek hastalýðýn iyileþmesini de saðlayacaktýr.</cevap>
+    </dialog>
+<dialog>
+        <soru>Grip oldum</soru>
+        <cevap>Gribe iyi gelen besinler nelerdir?
+Tavuk çorbasý, paça çorbasý, portakal, greyfurt, mandalina, limonlu çay, zencefil, ekinezya, kuþburnu, adaçayý, kekik çayý, okaliptus çayý, bal, soðan ve sarýmsak grip hastalýðýna faydalý olan baþlýca besinlerdir. </cevap>
+    </dialog>
+<dialog>
+        <soru>türkiyenin baþkenti neresidir</soru>
+        <cevap>Ankara</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin cumhurbaþkaný kimdir</soru>
+        <cevap>Recep Tayyip ERDOÐAN</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin ilk cumhurbaþkaný kimdir</soru>
+        <cevap>Mustafa Kemal ATATÜRK</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin nüfusu en fazla þehri</soru>
+        <cevap>Ýstanbul</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin en büyük yüzölçümlü þehri</soru>
+        <cevap>Konya</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin dünyada konumu</soru>
+        <cevap>Türkiye, 36° - 42° Kuzey paralelleri ile 26° 45° Doðu meridyenleri arasýnda yer alýr. Diðer bir ifadeyle, Türkiye Ekvator'un kuzeyinde ve Greenwich'in doðusunda bulunan bir ülkedir.</cevap>
+    </dialog>
+<dialog>
+        <soru>futbolda en çok gol atan oyuncu</soru>
+        <cevap>Pele</cevap>
+    </dialog>
+<dialog>
+        <soru>Ampulü icat eden kimdir</soru>
+        <cevap>Edison</cevap>
+    </dialog>
+<dialog>
+        <soru>Alternatif akýmý bulan kiþi</soru>
+        <cevap>Tesla</cevap>
+    </dialog>
+<dialog>
+        <soru>Yerçekimini bulan kiþi</soru>
+        <cevap>Isaac Newton</cevap>
+    </dialog>
+<dialog>
+        <soru>Evrim Teorisini ortaya atan insan </soru>
+        <cevap>Charles Darwin</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýlk matematikçi kimdir</soru>
+        <cevap>Aristotales</cevap>
+    </dialog>
+<dialog>
+        <soru>Pili bulan insan</soru>
+        <cevap>Alessandro Volta</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en büyük ülkesi</soru>
+        <cevap>Rusya</cevap>
+    </dialog>
+<dialog>
+        <soru>Eyfel kulesi nerededir</soru>
+        <cevap>Fransa, Paris</cevap>
+    </dialog>
+<dialog>
+        <soru>Peri bacalarý nerededir</soru>
+        <cevap>Nevþehir, Kapadokya</cevap>
+    </dialog>
+<dialog>
+        <soru>Bilinen ilk yerleþim yeri</soru>
+        <cevap>Çatalhöyük</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýkinci dünya savaþýnda öncülük çeken devlet</soru>
+        <cevap>Almanya, Hitler</cevap>
+
+    </dialog>
+<dialog>
+        <soru>üçgenin iç açýlarý toplamý</soru>
+        <cevap>180 derecedir</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin eski þehri</soru>
+        <cevap>Hakkari</cevap>
+    </dialog>
+<dialog>
+        <soru>Genel alýcý kan grubu</soru>
+        <cevap>AB RH+</cevap>
+    </dialog>
+<dialog>
+        <soru>dünyanýn en büyük hayvaný</soru>
+        <cevap>Mavi Balina</cevap>
+    </dialog>
+<dialog>
+        <soru>Atmosferin en alt tabakasý</soru>
+        <cevap>troposfer</cevap>
+    </dialog>
+<dialog>
+        <soru>telefonu icat eden kimdir</soru>
+        <cevap>Alexander Grahambell</cevap>
+    </dialog>
+<dialog>
+        <soru>Güneþe en yakýn gezegen</soru>
+        <cevap>Merkür</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyeye ait en büyük ada</soru>
+        <cevap>Gökçeada</cevap>
+    </dialog>
+<dialog>
+        <soru>Aya ilk ayak basan kiþi</soru>
+        <cevap>Neil Armstrong</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en büyük adasý</soru>
+        <cevap>Grönland</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en büyük yarýmadasý</soru>
+        <cevap>Arabistan</cevap>
+    </dialog>
+<dialog>
+        <soru>En sýcak gezegen</soru>
+        <cevap>462 derece ile venüs</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyaya en yakýn gezegen</soru>
+        <cevap>Venüs</cevap>
+    </dialog>
+<dialog>
+        <soru>Güneþe en uzak gezegen</soru>
+        <cevap>Neptün</cevap>
+    </dialog>
+<dialog>
+        <soru>Akdeniz ile kýzýldenizi baðlayan kanal</soru>
+        <cevap>Süveyþ kanalý</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýlk dünya haritasýný çizen denizci</soru>
+        <cevap>Piri Reis</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en büyük gölü</soru>
+        <cevap>Hazar Gölü</cevap>
+    </dialog>
+<dialog>
+        <soru>Nüfusu en çok olan ülke</soru>
+        <cevap>Çin</cevap>
+    </dialog>
+<dialog>
+        <soru>dünyanýn en yüksek daðý</soru>
+        <cevap>Everest Daðý</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en uzun ýrmaðý</soru>
+        <cevap>Nil</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en büyük okyanusu</soru>
+        <cevap>Pasifik Okyanusu</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en büyük kýtasý </soru>
+        <cevap>Asya kýtasý</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin en kuzeyi</soru>
+        <cevap>Sinop Ýnceburun</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin en güneyi</soru>
+        <cevap>Hatay</cevap>
+    </dialog>
+<dialog>
+        <soru>Rüzgarýn hýzýný ölçen cihaz</soru>
+        <cevap>Anemometre</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkçe hangi dil grubuna girer</soru>
+        <cevap>Ural -Altay</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýstiklal marþýmýzýn bestecisi</soru>
+        <cevap>Osman Zeki Üngör</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en büyük çölü</soru>
+        <cevap>Sahra çölü</cevap>
+    </dialog>
+<dialog>
+        <soru>En büyük yanardaðý</soru>
+        <cevap>Endonezya-Tambora</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en küçük ülkesi</soru>
+        <cevap>Vatikan</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en kalalbalýk þehri</soru>
+        <cevap>Tokyo Japonya</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en uzun binasý</soru>
+        <cevap>Burj Khalifa</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en uzun Kanalý</soru>
+        <cevap>Panama Kanalý</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en uzun köprüsü</soru>
+        <cevap>Akashi-Japonya-1.990 m</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyada en çok konuþulan dil</soru>
+        <cevap>Çince</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en uzun sýnýrý</soru>
+        <cevap>ABD -Kanada sýnýr</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en uzun köprüsü</soru>
+        <cevap>Akashi-Japonya-1.990 m</cevap>
+    </dialog>
+<dialog>
+        <soru>Dar açý nedir</soru>
+        <cevap>ölçüsü 0 ile 90 derece olan açýlar</cevap>
+    </dialog>
+<dialog>
+        <soru>dik açý nedir</soru>
+        <cevap>ölçüsü 90 derece olan açýdýr</cevap>
+    </dialog>
+<dialog>
+        <soru>Geniþ açý nedir</soru>
+        <cevap>ölçüsü 90 ile 180 arasý olan açýdýr</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en uzun köprüsü</soru>
+        <cevap>Akashi-Japonya-1.990 m</cevap>
+    </dialog>
+<dialog>
+        <soru>Tam açý nedir</soru>
+        <cevap>Ölçüsü 360 derece olan açýdýr.</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin iklimi nedir</soru>
+        <cevap>Bölgelere göre iklim de deðiþiklik göstermektedir. Ancak ülke genelinde ýlýman bir iklim hakimdir. Karadeniz bölgesinde ýlýman, güney ve Ege sahillerinde ise Akdeniz iklimi görülür. Ýç kesimlerde karasal ve kurak iklim görülürken, doðu bölgesinde sert dað iklimi hakimdir.</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin nüfusu</soru>
+        <cevap>en güncel deðer 80 milyondur</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin yönetim biçimi nedir</soru>
+        <cevap>Cumhuriyettir</cevap>
+    </dialog>
+<dialog>
+        <soru>türkiyede günlerin kýsalmaya baþladýðý tarih</soru>
+        <cevap>21 Haziran.</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyede günlerin uzamaya baþladýðý tarih</soru>
+        <cevap>21 Aralýk.</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýlk resmi gazete</soru>
+        <cevap>Takvimi Vakayi</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýç organlarýn çalýþmasýný kontrol eden merkez</soru>
+        <cevap>Omurilik Soðaný</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýlk kadýn Vali</soru>
+        <cevap>Lale AYTAMAN.</cevap>
+    </dialog>
+<dialog>
+        <soru>Divan þiirinin ölçüsü</soru>
+        <cevap>Aruz</cevap>
+    </dialog>
+<dialog>
+        <soru>Suyun kaldýrma kuvvetini bulan kiþi</soru>
+        <cevap>ARÞÝMED</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünya saðlýk örgütü</soru>
+        <cevap>WHO</cevap>
+    </dialog>
+<dialog>
+        <soru>Tam açý nedir</soru>
+        <cevap>Ölçüsü 360 derece olan açýdýr.</cevap>
+    </dialog>
+<dialog>
+        <soru>Birleþmiþ milletler örgütü</soru>
+        <cevap>UNO</cevap>
+    </dialog>
+<dialog>
+        <soru>Uluslararasý para fonu</soru>
+        <cevap>IMF</cevap>
+    </dialog>
+<dialog>
+        <soru>Uluslararasý çalýþma örgütü</soru>
+        <cevap>ILO</cevap>
+    </dialog>
+<dialog>
+        <soru>Yedi yýldýzdan oluþan takýmýnyýldýzýnýn adý</soru>
+        <cevap>Büyük Ayý</cevap>
+    </dialog>
+<dialog>
+        <soru>Mai ve Siyah adlý eserin yazarý</soru>
+        <cevap>Halit Ziya Uþaklýgil</cevap>
+    </dialog>
+<dialog>
+        <soru>Birleþmiþ Milletler Eðitim Bilim ve Kültür Örgütü</soru>
+        <cevap>UNESCO</cevap>
+    </dialog>
+<dialog>
+        <soru>Akdenizin en büyük adasý</soru>
+        <cevap>Girit Adasý</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýstanbula ilk Türk bayraðýný diken kiþi</soru>
+        <cevap>Ulubatlý Hasan</cevap>
+    </dialog>
+<dialog>
+        <soru>Doktorlarýn hastalarýnýn vücudunu dinlediði cihaz</soru>
+        <cevap>Steteskop</cevap>
+    </dialog>
+<dialog>
+        <soru>Tarihte ilk yazýyý bulanlar</soru>
+        <cevap>Sümerler</cevap>
+    </dialog>
+<dialog>
+        <soru>Tarihte ilk parayý bulanlar</soru>
+        <cevap>Lidyalýlar</cevap>
+    </dialog>
+<dialog>
+        <soru>Tarihte ilk yerleþik hayat</soru>
+        <cevap>Cilalý taþ devri</cevap>
+    </dialog>
+<dialog>
+        <soru>Anadoluda kurulan ilk uygarlýk</soru>
+        <cevap>Hititler</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýlk anayasayý kim yaptý</soru>
+        <cevap>Babiller</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýlk düzenli ve sürekli ordu</soru>
+        <cevap>Akadlara aittir.</cevap>
+    </dialog>
+<dialog>
+        <soru>Son osmanlý padiþahý</soru>
+        <cevap>Vahdettin</cevap>
+    </dialog>
+<dialog>
+        <soru>Eski Mýsýr Krallarý</soru>
+        <cevap>Firavun</cevap>
+    </dialog>
+<dialog>
+        <soru>Osamnlýnýn ilk baþkenti</soru>
+        <cevap>Söðüt</cevap>
+    </dialog>
+<dialog>
+        <soru>türkiyenin eurovisionda birinci olduðu yýl</soru>
+        <cevap>2003</cevap>
+    </dialog>
+<dialog>
+        <soru>Mekke ve Medineden oluþan bölge</soru>
+        <cevap>Hicaz</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin ilk baþbakaný</soru>
+        <cevap>Ýsmet ÝNÖNÜ</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyede ilk uöak fabrikasý nerede yapýldý</soru>
+        <cevap>Kayseri</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin ilk haber spikeri</soru>
+        <cevap>Zafer Cilasundur</cevap>
+    </dialog>
+<dialog>
+        <soru>Gümüþ en çok nerde üretilir</soru>
+        <cevap>Meksika</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin en uzun karayolu nerededir</soru>
+        <cevap>Konya</cevap>
+    </dialog>
+<dialog>
+        <soru>Sanayi devrimi nerde baþlamýþtýr</soru>
+        <cevap>Ýngiltere</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin en yüksek minaresi hangi cami</soru>
+        <cevap>Selimiye Camisidir</cevap>
+    </dialog>
+<dialog>
+        <soru>Susuzluða en fazla dayanan hayvan</soru>
+        <cevap>Deve</cevap>
+    </dialog>
+<dialog>
+        <soru>Açlýða en fazla dayanan hayvan</soru>
+        <cevap>Kaplumbaða</cevap>
+    </dialog>
+<dialog>
+        <soru>Uçabilen tek memeli hayvan</soru>
+        <cevap>Yarasa</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin ilk haber ajansý</soru>
+        <cevap>Anadolu Ajansý</cevap>
+    </dialog>
+<dialog>
+        <soru>Havada buluna en fazla gaz</soru>
+        <cevap>Azot gazýdýr</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyede kurulan ilk parti</soru>
+        <cevap>CHP dir</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünyanýn en kýsa süren meydan savaþý</soru>
+        <cevap>Mohaç meydan savaþýdýr.</cevap>
+    </dialog>
+<dialog>
+        <soru>DÜnaynýn en deðerli elmasý</soru>
+        <cevap>Kaþýkçý elmasýdýr</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýlk kadýn pilot</soru>
+        <cevap>Sabiha Gökçen</cevap>
+    </dialog>
+<dialog>
+        <soru>Tarihte bilinen ilk meclis</soru>
+        <cevap>Pankuþ Meclisi</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyenin ilk kadýn bakaný</soru>
+        <cevap>Türkan Akyol</cevap>
+    </dialog>
+<dialog>
+        <soru>En hýzlý koþan hayvan</soru>
+        <cevap>Çita</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiye Cumhuriyetinin ilk anaysasý</soru>
+        <cevap>1924 Anayasasý</cevap>
+    </dialog>
+<dialog>
+        <soru>Türkiyede ilk nüfus sayýmý</soru>
+        <cevap>1927 yýlýnda yapýldý</cevap>
+    </dialog>
+<dialog>
+        <soru>En fazla yapýþ alan ilimiz</soru>
+        <cevap>Rize</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýlk hava þehidimiz</soru>
+        <cevap>Fethi Bey</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýlk Türk uçaðý</soru>
+        <cevap>Mavi ýþýk</cevap>
+    </dialog>
+<dialog>
+        <soru>Yerleþim yerine yapýlan ilk baraj</soru>
+        <cevap>Denizli gökpýnar barajý</cevap>
+    </dialog>
+<dialog>
+        <soru>Dünya kupasýnýn en çok gol atan oyuncusu</soru>
+        <cevap>Miroslav Klose</cevap>
+    </dialog>
+<dialog>
+        <soru>Ýlk dünya kupasý Þampiyonu</soru>
+        <cevap>Uruguay</cevap>
+    </dialog>
+<dialog>
+        <soru>Bir sezonda en çok gol atan futbolcu</soru>
+        <cevap>Lionel Messi</cevap>
+    </dialog>
+<dialog>
+        <soru>En çok þampiyonlar ligi þampiyonu olan takým</soru>
+        <cevap>Real Madrid</cevap>
+    </dialog>
+<dialog>
+        <soru>Þampiyonlar liginde en çok gol atan oyuncu</soru>
+        <cevap>Cristiano Ronaldo</cevap>
+    </dialog>
+<dialog>
+        <soru>Süper ligde en çok gol atan oyuncusu</soru>
+        <cevap>Hakan Þükür</cevap>
+    </dialog>
+<dialog>
+        <soru>Tarihte ilk yazýyý bulanlar</soru>
+        <cevap>Sümerler</cevap>
     </dialog>
 </dialoglar>

@@ -3,8 +3,10 @@ package com.example.selamoid.Activity;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.AssetManager;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.text.TextUtils;
 import android.view.KeyEvent;
 import android.view.Menu;
@@ -29,6 +31,9 @@ public class MainActivity extends AppCompatActivity {
 
     private MesajAdapter adapter;
     RelativeLayout rLayout;
+    static SharedPreferences preferences;
+    String STATE_COLOR = "com.example.selamoid.drawaid";
+    String NEXT_COLOR = "com.example.selamoid.nextcolor";
 
     private ListView listView;
     private EditText editTextMsg;
@@ -58,6 +63,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
+        preferences = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+        AyarlarActivity.drawableID = preferences.getInt(STATE_COLOR, 2131099785);
+        AyarlarActivity.nextColor = preferences.getInt(NEXT_COLOR, 6);
         rLayout.setBackgroundColor(getResources().getColor(AyarlarActivity.drawableID));
     }
 
